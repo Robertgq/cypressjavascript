@@ -1,0 +1,15 @@
+{
+  "name": "cypressudemy",
+  "version": "1.0.0",
+  "description": "curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.16.1",
+    "cypress-plugin-tab": "^1.0.5"
+  }
+}

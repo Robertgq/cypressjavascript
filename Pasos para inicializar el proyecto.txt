@@ -1,0 +1,7 @@
+Pasos para inicializar el proyecto
+
+1. npm init 
+2. -npm install cypress --save-dev 
+3. -node_modules\.bin\cypress open 
+4. npm install -g npx
+5. npx cypress open 
